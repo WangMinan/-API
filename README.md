@@ -1,2 +1,6 @@
-# -API
+# UploadAndDownloadFileWithAPI
 使用springboot实现的一个api文件上传和下载应用。可直接部署在服务器上。
+
+看了很多图床觉得api的适配不是特别好。所以直接自己动手写了一个。
+
+存储文件的相对路径可见application.yaml中的有关配置。配置访问密码请全局搜索替换8个*。
