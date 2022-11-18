@@ -1,0 +1,7 @@
+file:
+  path:
+    windows: D:\OneDrive\桌面\
+    linux: /home/fileBed/
+
+server:
+  port: 8081 # 服务端口
